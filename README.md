@@ -5,8 +5,10 @@
 ## 설치
 
 ```bash
-npm install github:Apam-draw/chzzk-open-api
+npm install @apam-draw/chzzk-open-api
 ```
+
+비공개 GitHub Packages에서 설치할 때는 `read:packages` 권한이 있는 토큰과 npm scope 설정이 필요합니다.
 
 ## 사용
 

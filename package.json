@@ -1,6 +1,13 @@
 {
   "name": "@apam-draw/chzzk-open-api",
   "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apam-draw/chzzk-open-api.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "description": "Reusable TypeScript client and event normalizers for CHZZK Open API",
   "type": "module",
   "main": "./dist/index.js",
